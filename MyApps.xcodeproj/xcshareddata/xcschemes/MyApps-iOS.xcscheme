@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E9191B701FBEBDF600BDB847"
-               BuildableName = "MyApps.framework"
-               BlueprintName = "MyApps"
+               BlueprintIdentifier = "E9284BD01FBEFA40003F6976"
+               BuildableName = "MyApps_iOS.framework"
+               BlueprintName = "MyApps-iOS"
                ReferencedContainer = "container:MyApps.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,26 +29,7 @@
       language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E9191B791FBEBDF700BDB847"
-               BuildableName = "MyAppsTests.xctest"
-               BlueprintName = "MyAppsTests"
-               ReferencedContainer = "container:MyApps.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E9191B701FBEBDF600BDB847"
-            BuildableName = "MyApps.framework"
-            BlueprintName = "MyApps"
-            ReferencedContainer = "container:MyApps.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -66,9 +47,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E9191B701FBEBDF600BDB847"
-            BuildableName = "MyApps.framework"
-            BlueprintName = "MyApps"
+            BlueprintIdentifier = "E9284BD01FBEFA40003F6976"
+            BuildableName = "MyApps_iOS.framework"
+            BlueprintName = "MyApps-iOS"
             ReferencedContainer = "container:MyApps.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -84,9 +65,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E9191B701FBEBDF600BDB847"
-            BuildableName = "MyApps.framework"
-            BlueprintName = "MyApps"
+            BlueprintIdentifier = "E9284BD01FBEFA40003F6976"
+            BuildableName = "MyApps_iOS.framework"
+            BlueprintName = "MyApps-iOS"
             ReferencedContainer = "container:MyApps.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

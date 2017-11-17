@@ -1,6 +1,6 @@
 //
 //  LookupRequest.swift
-//  MyAppsPackageDescription
+//  MyApps
 //
 //  Created by Ken Tominaga on 2017/11/17.
 //
@@ -39,5 +39,4 @@ struct LookupRequest: Request {
         print(dict)
         return LookupResponse(artist: Artist(id: "hoge", name: "piyo"), apps: [])
     }
-
 }

@@ -1,6 +1,6 @@
 //
 //  LookupResponse.swift
-//  MyAppsPackageDescription
+//  MyApps
 //
 //  Created by Ken Tominaga on 2017/11/17.
 //
@@ -11,5 +11,4 @@ struct LookupResponse {
 
     let artist: Artist
     let apps: [App]
-
 }

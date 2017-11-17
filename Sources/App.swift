@@ -1,13 +1,13 @@
 //
 //  App.swift
-//  MyAppsPackageDescription
+//  MyApps
 //
 //  Created by Ken Tominaga on 2017/11/17.
 //
 
 import Foundation
 
-struct App: Codable {
+public struct App: Codable {
 
     let id: String
     let name: String

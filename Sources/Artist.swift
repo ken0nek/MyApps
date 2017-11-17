@@ -1,13 +1,13 @@
 //
 //  Artist.swift
-//  MyAppsPackageDescription
+//  MyApps
 //
 //  Created by Ken Tominaga on 2017/11/17.
 //
 
 import Foundation
 
-struct Artist: Codable {
+public struct Artist: Codable {
 
     let id: String
     let name: String
